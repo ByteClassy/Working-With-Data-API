@@ -37,7 +37,7 @@
 			"title": "Green Tea",
 			"description": "Revitalize your senses with our antioxidant-rich green tea, boasting a delicate, refreshing taste perfect for any time of day.",
 			"price": "3",
-			"image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/pasta.jpg?raw=true",
+			"image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/greenTea.jpg?raw=true",
 			"category": "drinks"
 		},
 		{
@@ -45,7 +45,7 @@
 			"title": "Cappuccino",
 			"description": "Indulge in our classic cappuccino, where bold espresso meets creamy milk froth for a luxurious coffee experience.",
 			"price": "5",
-			"image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/pasta.jpg?raw=true",
+			"image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/cappuccino.jpg?raw=true",
 			"category": "drinks"
 		},
 		{
