@@ -4,7 +4,7 @@
 			"id": 1,
 			"title": "Greek Salad",
 			"description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
-			"price": "10",
+			"price": "12.99",
 			"image": "https://github.com/ByteClassy/Working-With-Data-API/blob/main/images/greekSalad.jpg?raw=true",
 			"category": "starters"
 		},
