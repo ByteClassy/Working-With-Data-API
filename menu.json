@@ -4,7 +4,7 @@
 			"id": 1,
 			"title": "Greek Salad",
 			"description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
-			"price": "12",
+			"price": "12.99",
 			"image": "https://github.com/ByteClassy/Working-With-Data-API/blob/main/images/greekSalad.jpg?raw=true",
 			"category": "starters"
 		},
@@ -12,7 +12,7 @@
 			"id": 2,
 			"title": "Lemon Desert",
 			"description": "Traditional homemade Italian Lemon Ricotta Cake.",
-			"price": "10",
+			"price": "10.99",
 			"image": "https://github.com/ByteClassy/Working-With-Data-API/blob/main/images/lemonDessert.jpg?raw=true",
 			"category": "desserts"
 		},
@@ -20,7 +20,7 @@
 			"id": 3,
 			"title": "Grilled Fish",
 			"description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
-			"price": "15",
+			"price": "15.99",
 			"image": "https://github.com/ByteClassy/Working-With-Data-API/blob/main/images/grilledFish.jpg?raw=true",
 			"category": "mains"
 		},
@@ -28,7 +28,7 @@
 			"id": 4,
 			"title": "Pasta",
 			"description": "Penne with fried aubergines, cherry tomatoes, tomato sauce, fresh chilli, garlic, basil & salted ricotta cheese.",
-			"price": "8",
+			"price": "8.99",
 			"image": "https://github.com/ByteClassy/Working-With-Data-API/blob/main/images/pasta.jpg?raw=true",
 			"category": "mains"
 		},
@@ -36,7 +36,7 @@
 			"id": 5,
 			"title": "Green Tea",
 			"description": "Revitalize your senses with our antioxidant-rich green tea, boasting a delicate, refreshing taste perfect for any time of day.",
-			"price": "3",
+			"price": "3.99",
 			"image": "https://github.com/ByteClassy/Working-With-Data-API/blob/main/images/greenTea.jpg?raw=true",
 			"category": "drinks"
 		},
@@ -44,7 +44,7 @@
 			"id": 6,
 			"title": "Cappuccino",
 			"description": "Indulge in our classic cappuccino, where bold espresso meets creamy milk froth for a luxurious coffee experience.",
-			"price": "5",
+			"price": "5.99",
 			"image": "https://github.com/ByteClassy/Working-With-Data-API/blob/main/images/cappuccino.jpg?raw=true",
 			"category": "drinks"
 		},
@@ -52,7 +52,7 @@
 			"id": 7,
 			"title": "Bruschetta",
 			"description": "Oven-baked bruschetta stuffed with tomatos and herbs.",
-			"price": "11",
+			"price": "11.99",
 			"image": "https://github.com/ByteClassy/Working-With-Data-API/blob/main/images/bruschetta.jpg?raw=true",
 			"category": "starters"
 		}
